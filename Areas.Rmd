@@ -1,0 +1,17 @@
+---
+title: "Areas"
+author: "Nerea Galera Navarro"
+date: "2026-02-01"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Área de un círculo
+```{r}
+r <- 0.5
+Area <- pi * r^2
+```
+
