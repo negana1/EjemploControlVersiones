@@ -20,3 +20,10 @@ Area <- pi * r^2
 lado <- 3
 Area_cuadrado <- lado^2
 ```
+
+# Área de un triángulo
+```{r}
+b <- 2
+h <- 1
+Area_triangulo <- (b * h)/2
+```
