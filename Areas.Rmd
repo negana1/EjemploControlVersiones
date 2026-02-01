@@ -27,3 +27,11 @@ b <- 2
 h <- 1
 Area_triangulo <- (b * h)/2
 ```
+
+# Área de un rectángulo
+```{r}
+b <- 5
+h <- 10
+Area_rectangulo <- b * h
+```
+
