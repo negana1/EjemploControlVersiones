@@ -5,3 +5,7 @@ PerimetroCuadrado <- function(L){
 LongitudCircunferencia <- function(radio){
   return(2 * pi * radio)
 }
+
+area_trapecio <- function(b, B, H) {
+  ((B + b) * H) / 2
+}
